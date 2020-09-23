@@ -1,0 +1,48 @@
+3D Objects/
+AppData/
+Application Data@
+Cisco Packet Tracer 7.3.1/
+Contacts/
+Cookies@
+Desktop/
+Documents/
+Downloads/
+Favorites/
+filegg.py
+IntelGraphicsProfiles/
+it19/
+kit19/
+kit19E/
+learnparcel/
+Links/
+Local Settings@
+matem.py
+MicrosoftEdgeBackups/
+mm19/
+Music/
+My Documents@
+NetHood@
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{799aa395-6225-11e9-8deb-00155d000a9c}.TM.blf
+NTUSER.DAT{799aa395-6225-11e9-8deb-00155d000a9c}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{799aa395-6225-11e9-8deb-00155d000a9c}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+ntuser.pol
+OneDrive/
+Pictures/
+PrintHood@
+ps_practice_308_25/
+ps_urok1/
+ps-practice-25/
+Recent@
+Saved Games/
+Searches/
+SendTo@
+source/
+Start Menu@
+Templates@
+Videos/
+VirtualBox VMs/
+vm19SAUL/
